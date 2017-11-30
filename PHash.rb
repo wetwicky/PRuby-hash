@@ -35,4 +35,7 @@ module PRuby
 
     end
   end
+
+  # On etend les module Hash avec les methodes ainsi definies.
+  Hash.send(:include, PRuby::PHash)
 end
