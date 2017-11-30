@@ -1,4 +1,4 @@
-require 'array_range'
+require 'PArrayRange'
 
 module PRuby
 
