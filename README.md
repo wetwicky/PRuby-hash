@@ -1,5 +1,10 @@
 PRuby-hash
 ==========
+Documention de PRuby
+--------------------
+
+http://moka.labunix.uqam.ca/~tremblay/INF5171/pruby/
+
 Installation PRuby
 ------------------
 il faut intaller RVM
